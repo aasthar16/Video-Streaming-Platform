@@ -1,0 +1,22 @@
+{
+  "name": "ottplatformbackend",
+  "version": "1.0.0",
+  "description": "A OTT Platfrom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasthar16/Video-Streaming-Platform.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Aastha Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aasthar16/Video-Streaming-Platform/issues"
+  },
+  "homepage": "https://github.com/aasthar16/Video-Streaming-Platform#readme"
+}
